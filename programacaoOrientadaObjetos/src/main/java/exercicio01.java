@@ -2,7 +2,6 @@ import entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
-import  entities.Triangle;
 
 public class exercicio01 {
     public static void main(String[] args) {
